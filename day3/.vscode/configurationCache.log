@@ -1,0 +1,1 @@
+{"buildTargets":["asm","asmhead.bin","bootpack.gas","bootpack.hrb","clean","helloos.img","helloos5.img","img","img_only","ipl.bin","load_sys","rui.sys","tail.bin"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
